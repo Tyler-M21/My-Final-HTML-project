@@ -16,12 +16,16 @@ button{
 title{
     color: black;
 }
-h1{
+.seen{
     color: white;
     text-align: left;
     font-style: initial;
     padding-left: 10%;
     padding-top: 10%;
+  font-size: 3.5rem;
+    margin-bottom: 20px;
+    font-weight: 800;
+
 }
 h2{
     color: green;
@@ -40,7 +44,7 @@ input{
     color: white;
 
 }
-p{
+.gone{
     text-align: center;
     font-size: x-large;
     color: white;
@@ -61,6 +65,7 @@ a{
     background-color:white;
     width: 100%;
     height: 80%;
+    display: flex;
 }
 .time:hover{
     background-color: darkgreen;
