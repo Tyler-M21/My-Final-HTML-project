@@ -104,11 +104,30 @@ img {
 }
 
 .integra {
-    background-color: var(--accent-color);
+    background-color: peachpuff;
     width: 100%;
     height: 85vh;
 }
 .pop{
+    padding-top: 15vh;
     text-align: center;
     
+}
+.doppo{
+    text-align: center;
+}
+.head{
+    height: 65%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.same{
+    background-color: white;
+    height:85% ;
+    width: 20%;
+    margin:1%;
+    border-radius: 15px;
+    padding-left:8%;
 }
